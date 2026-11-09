@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+  <rect width="600" height="300" fill="#f2c230"/>
+  <path d="M90 150 L180 80 L180 115 L520 115 L520 185 L180 185 L180 220 Z" fill="#3b1460" stroke="#2a0f45" stroke-width="6" stroke-linejoin="round"/>
+  <text x="355" y="164" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="40" fill="#f2c230">CONTINUA...</text>
+</svg>

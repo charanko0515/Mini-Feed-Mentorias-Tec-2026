@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#e7e1fb"/>
+  <circle cx="455" cy="110" r="48" fill="#f5b83d"/>
+  <path d="M0 400 L170 170 L290 320 L390 210 L600 400 Z" fill="#5b21d6"/>
+  <path d="M0 400 L120 290 L230 400 Z" fill="#3d138f"/>
+  <text x="300" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#ffffff">Troque por uma imagem sua</text>
+</svg>

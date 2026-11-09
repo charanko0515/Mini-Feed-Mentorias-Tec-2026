@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#13343a"/>
+  <circle cx="455" cy="110" r="48" fill="#e4e6eb"/>
+  <path d="M0 400 L170 170 L290 320 L390 210 L600 400 Z" fill="#0f766e"/>
+  <path d="M0 400 L120 290 L230 400 Z" fill="#2dd4bf"/>
+  <text x="40" y="60" font-family="Verdana, sans-serif" font-size="20" fill="#e4e6eb">Troque por uma imagem sua</text>
+</svg>
